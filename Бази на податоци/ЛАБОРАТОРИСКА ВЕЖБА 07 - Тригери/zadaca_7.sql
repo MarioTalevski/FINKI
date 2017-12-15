@@ -1,4 +1,5 @@
 /* Zadaca 1 */ 
+
 /* Креирај тригер */
 CREATE OR REPLACE TRIGGER "brisi_uloga_1"
 BEFORE
